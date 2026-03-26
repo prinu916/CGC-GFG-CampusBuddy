@@ -2,6 +2,7 @@
 
 Modern React dashboard for campus events, announcements, teams.
 
+## Deployed URL: https://cgc-gfg-app.surge.sh/
 ## Setup
 `npm install` or `bun install`
 
